@@ -1,0 +1,30 @@
+body{
+    background-color: salmon;
+    background: url(https://files.slack.com/files-pri/T03RVJUQU-FB4NRC6F4/whatsapp_image_2018-06-09_at_14.30.28.jpeg);
+}
+
+h1{
+    font-family:'Courier New', Courier, monospace;
+    color: black;
+    font-size: 50px;
+    margin-left: 850px;
+    margin-top: 200px;
+
+}
+#description{
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    margin-left: 700px;
+
+}
+#FirstCel{
+    margin-left: 230px;
+    margin-top: -340px;
+    margin-right:00;
+    margin-bottom:00px;
+}
+#lp{
+    
+}
+
+
