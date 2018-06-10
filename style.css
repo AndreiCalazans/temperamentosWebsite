@@ -1,6 +1,6 @@
 body{
     background-color: salmon;
-    background: url(https://files.slack.com/files-pri/T03RVJUQU-FB4NRC6F4/whatsapp_image_2018-06-09_at_14.30.28.jpeg);
+    background: url(assets/Background\ Body.jpeg)
 }
 
 h1{
@@ -22,9 +22,6 @@ h1{
     margin-top: -340px;
     margin-right:00;
     margin-bottom:00px;
-}
-#lp{
-    
 }
 
 
