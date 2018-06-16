@@ -1,30 +1,41 @@
-body{
-    background-color: salmon;
-    background: url(https://files.slack.com/files-pri/T03RVJUQU-FB4NRC6F4/whatsapp_image_2018-06-09_at_14.30.28.jpeg);
+body { 
+    height: 3000px;
 }
-
-h1{
-    font-family:'Courier New', Courier, monospace;
+h1 {
+    font-family: helvetica;
     color: black;
-    font-size: 50px;
-    margin-left: 850px;
-    margin-top: 200px;
-
 }
-#description{
+#description {
     font-family: 'Courier New', Courier, monospace;
     color: black;
-    margin-left: 700px;
 
 }
-#FirstCel{
-    margin-left: 230px;
-    margin-top: -340px;
-    margin-right:00;
-    margin-bottom:00px;
+#headerImg {
+    display: flex;
+    align-items: center;
+
 }
-#lp{
-    
+.AppStoreButton{
+    background: url(assets/AppStore.png);
+  
+}
+.container {
+    display: flex;
+    height: 100vh;
+}
+.container:nth-child(1) div {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+.container:nth-child(1) div:nth-child(2) {
+    flex-direction: column; 
+} 
+.container:nth-child(1) {
+    background-color: salmon;
+    background: url(assets/BackgroundBody.jpeg);
 }
 
 
